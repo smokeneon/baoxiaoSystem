@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="LeonBX">
+    <output-path>$PROJECT_DIR$/out/artifacts/LeonBX</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyJavaWeb" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="c3p0-0.9.5.2" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.16" />
+          <element id="library" level="project" name="jsmartcom_zh_CN" />
+          <element id="library" level="project" name="commons-fileupload-1.3.3" />
+          <element id="library" level="module" name="testng" module-name="MyJavaWeb" />
+          <element id="library" level="project" name="json-lib-2.4-jdk15" />
+          <element id="library" level="project" name="jackson-core-2.2.1" />
+          <element id="library" level="project" name="jackson-annotations-2.2.1" />
+          <element id="library" level="project" name="jackson-mapper-asl-1.8.8" />
+          <element id="library" level="project" name="jackson-core-asl-1.8.8" />
+        </element>
+      </element>
+      <element id="library" level="project" name="mysql-connector-java-5.1.46" />
+      <element id="library" level="project" name="alipay" />
+      <element id="javaee-facet-resources" facet="MyJavaWeb/web/Web" />
+    </root>
+  </artifact>
+</component>

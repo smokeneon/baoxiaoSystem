@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Fgt">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fgt</output-path>
+    <root id="root">
+      <element id="library" level="project" name="mysql-connector-java-5.1.46" />
+      <element id="library" level="project" name="mysql-connector-java-8.0.16" />
+      <element id="library" level="project" name="alipay" />
+      <element id="library" level="module" name="testng" module-name="MyJavaWeb" />
+      <element id="javaee-facet-resources" facet="MyJavaWeb/web/Web" />
+    </root>
+  </artifact>
+</component>

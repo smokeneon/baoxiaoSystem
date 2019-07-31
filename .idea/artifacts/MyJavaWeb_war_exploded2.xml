@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyJavaWeb:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyJavaWeb_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyJavaWeb" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="c3p0-0.9.5.2" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.16" />
+          <element id="library" level="project" name="alipay" />
+          <element id="library" level="project" name="jsmartcom_zh_CN" />
+        </element>
+      </element>
+      <element id="library" level="project" name="mysql-connector-java-5.1.46" />
+      <element id="javaee-facet-resources" facet="MyJavaWeb/web/Web" />
+    </root>
+  </artifact>
+</component>

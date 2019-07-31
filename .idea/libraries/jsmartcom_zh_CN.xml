@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsmartcom_zh_CN">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jsmartcom_zh_CN.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+    <default-config>
+        <property name="driverClass">com.mysql.jdbc.Driver</property>
+        <property name="jdbcUrl">jdbc:mysql:///leonbaoxiao?useSSL=false&amp;useUnicode=true&amp;characterEncoding=utf8</property>
+
+     	    <!--<property name="user">fangandb5871</property>-->
+            <!--<property name="password">Rwfsk1K8WazISD1C</property>-->
+
+        <property name="user">root</property>
+        <property name="password">shGenTai123,.</property>
+
+        <!--<property name="user">root</property>-->
+        <!--<property name="password">123qwe</property>-->
+<!--                <property name="user">root</property>-->
+<!--                <property name="password">2017</property>-->
+
+        <property name="initialPoolSize">20</property>
+        <property name="maxPoolSize">100</property>
+    </default-config>
+</c3p0-config>
